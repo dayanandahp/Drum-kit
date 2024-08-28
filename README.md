@@ -39,4 +39,4 @@ Feel free to fork this repository and contribute your improvements! You can add 
 
 Screenshot and : Include screenshots showcasing the drum kit interface.
 http://127.0.0.1:3000/Drum%20Kit%20Starting%20Files/index.html
-![Screenshot 2024-08-28 at 2 47 08 PM](https://github.com/user-attachments/assets/f2299879-ac74-4651-b041-d18ec3786088)
+![Screenshot 2024-08-28 at 3 43 30 PM](https://github.com/user-attachments/assets/5e7a732b-e722-4448-982a-97cc5876989a)
